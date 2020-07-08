@@ -60,7 +60,7 @@ mkdocs, version 0.15.3
 Clone e entre no repositório do projeto.
 
 ```bash
-git clone https://github.com/arma29/online-book.git
+git clone https://github.com/fmelosilva/online-book.git
 cd online-book
 ```
 
