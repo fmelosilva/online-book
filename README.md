@@ -127,7 +127,7 @@ INFO    -  Cleaning site directory
 INFO    -  Building documentation to directory: /home/fmelo/Projects/university/online-book/site 
 INFO    -  Documentation built in 0.43 seconds 
 INFO    -  Copying '/home/fmelo/Projects/university/online-book/site' to 'gh-pages' branch and pushing to GitHub. 
-INFO    -  Your documentation should shortly be available at: https://arma29.github.io/online-book/ 
+INFO    -  Your documentation should shortly be available at: https://fmelosilva.github.io/online-book/ 
 ```
 
-Por trás dos panos, o conteúdo estático do site é gerado para o diretório site/, em seguida é criada uma branch chamada gh-pages, contendo o diretório recém criado. Basta acessar o site https://arma29.github.io/online-book/.
+Por trás dos panos, o conteúdo estático do site é gerado para o diretório site/, em seguida é criada uma branch chamada gh-pages, contendo o diretório recém criado. Basta acessar o site https://fmelosilva.github.io/online-book/.
